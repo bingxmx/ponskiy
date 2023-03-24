@@ -1,0 +1,95 @@
+.pon {
+  background-image: url(/img2/bok.jpg);
+  height: 760px;
+  justify-items: center;
+  display: grid;
+  justify-content: center;
+}
+
+.divskam {
+  display: grid;
+  margin: auto;
+justify-content: center;
+}
+
+.skam {
+  width: 792px;
+  height: 380px;
+  background-color: #181a21;
+  border-radius: 4px;
+  display: grid;
+  justify-items: center;
+  font-size: 13px;
+  
+}
+.loginfor{
+    margin-top: 30px;
+    text-transform: uppercase;
+    color: #1999ff;
+    
+}
+.passw{
+    margin-top:9px;
+    text-transform: uppercase;
+    color: #afafaf;
+}
+.idont{
+    display: grid;
+    justify-content: center;
+    margin-top: 50px;
+    text-decoration: underline;
+    color: #afafaf;
+}
+.inskam {
+  display: grid;
+  margin: auto;
+  margin-bottom: 120px;
+}
+.loginput {
+  width: 488px;
+  height: 41px;
+  justify-content: center;
+  display: grid;
+  margin-top: 9px;
+  padding-left: 10px;
+  background-color:rgba( 0, 0, 0, 0.2 );;
+  border-color: rgba(250, 235, 215, 0);
+  color: #fff;
+  font-size: 15px;
+}
+.yvibutt {
+  width: 270px;
+  height: 51px;
+  background: linear-gradient(90deg, #06bfff 0%, #2d73ff 100%);
+  text-align: center;
+  color: #fff;
+font-size: 20px;
+  margin-top: 30px;
+}
+.yvi {
+  display: flex;
+  margin-bottom: 50px;
+  margin-left: 25px;
+  text-transform: uppercase;
+  font-size: 32px;
+}
+.divyvibutt {
+  display: grid;
+  justify-content: center;
+  
+}
+
+.newlogindialog_TextInput_2eKVn {
+  width: 488px;
+  height: 41px;
+  justify-content: center;
+  display: grid;
+  margin-top: 3px;
+  color: #fff;
+  padding-left: 10px;
+  font-size: 15px;
+
+  border: 0;
+  background-color:rgba( 0, 0, 0, 0.2 );;
+  border-color: rgba(250, 235, 215, 0);
+}
